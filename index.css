@@ -1,8 +1,10 @@
 
 
 body {
+    
     background-image: image-set(000);
     background-repeat: no-repeat;
+    background-position: 20px 30px;
     background-size: cover;
 }
 
