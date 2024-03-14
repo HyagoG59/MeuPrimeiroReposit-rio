@@ -1,9 +1,11 @@
+
+
 body {
+    background-image: image-set(000);
     text-align: center;
     font-family: 'Arial', sans-serif;
     margin: 20px;
     padding: 20px;
-    background-color: #1d1d1d;
     color: #ecf0f1;
 }
 
