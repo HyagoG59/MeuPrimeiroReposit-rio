@@ -3,7 +3,7 @@
 body {
     background-image: url(P_Luxuria.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 
 header {
