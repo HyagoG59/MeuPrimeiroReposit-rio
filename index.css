@@ -1,8 +1,9 @@
 
 
 body {
-    background-image: image-set(000); background-size: cover;
+    background-image: image-set(000);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header {
