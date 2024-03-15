@@ -1,16 +1,14 @@
 
 
 body {
-    background-image: url(P_Luxuria.jpg);
-    background-repeat: no-repeat;
-    background-size: auto;
+background-color: #020202;
 }
 
 header {
 
     text-align: center;
     padding: 10px;
-    background-color: #000000;
+    background-color: #880101;
     color: #c0c0c0;
 }
 
