@@ -1,7 +1,10 @@
 
 
 body {
-background-color: #c0c0c0;
+background-image: image-set(000);
+background-repeat: no-repeat;
+background-size: cover;
+
 }
 
 header {
