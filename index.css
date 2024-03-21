@@ -2,6 +2,7 @@
 
 body {
     background-image: url(Fundo);
+    image-resolution: cover;
 }
 
 header {
